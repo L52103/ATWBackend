@@ -3360,19 +3360,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Narut\\.nuget\\packages\\": {}
+    "C:\\Users\\Jarvis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Narut\\ATWBackend\\ApiPostgre\\ApiPostgre.csproj",
+      "projectUniqueName": "C:\\Users\\Jarvis\\Documents\\GitHub\\ATWBackend\\ApiPostgre\\ApiPostgre.csproj",
       "projectName": "ApiPostgre",
-      "projectPath": "C:\\Users\\Narut\\ATWBackend\\ApiPostgre\\ApiPostgre.csproj",
-      "packagesPath": "C:\\Users\\Narut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Narut\\ATWBackend\\ApiPostgre\\obj\\",
+      "projectPath": "C:\\Users\\Jarvis\\Documents\\GitHub\\ATWBackend\\ApiPostgre\\ApiPostgre.csproj",
+      "packagesPath": "C:\\Users\\Jarvis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jarvis\\Documents\\GitHub\\ATWBackend\\ApiPostgre\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Narut\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jarvis\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
