@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiPostgre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebfaeef03fdc6d360bc5ca30c1ac3c71efcda46a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0d22f730e06761131a7d07f08b839d696814615")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiPostgre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiPostgre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
