@@ -78,4 +78,16 @@ app.MapDelete("/personas/{id}", async (int id, AppDbContext db) =>
     return Results.Ok(persona);
 });
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend", policy =>
+    {
+        policy.WithOrigins("http://localhost:4200")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
+app.UseCors("AllowFrontend");
+
 app.Run();
